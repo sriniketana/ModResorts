@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<network-security-config>
+  <domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="true">console-mobilefirst-console.apps.demo.ibmdte.net</domain>
+  </domain-config>
+</network-security-config>

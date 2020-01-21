@@ -1,0 +1,13 @@
+{
+    "env_choice": "default",
+    
+    "default": {
+     "hostname": "9.109.199.108",
+     "port": "9080",
+     "servercred": "admin:admin"
+    },
+
+    "userName":"sriniketana",
+    "repoName": "ModResorts"
+    
+   }
